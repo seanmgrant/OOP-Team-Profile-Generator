@@ -1,5 +1,15 @@
 {
+  "devDependencies": {
+    "jest": "^29.2.2"
+  },
   "dependencies": {
     "inquirer": "^8.2.4"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "directories": {
+    "test": "_tests_"
   }
 }
