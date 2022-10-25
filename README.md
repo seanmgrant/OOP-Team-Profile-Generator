@@ -17,6 +17,7 @@ A command line web app designed to generate webpage with your team.
 Run the index.html 
 
 ## Usage:
+video walk through
 https://drive.google.com/file/d/1pzq0pr713sTX5St_h7Rnvj76qqhzrnfV/view?usp=sharing
 
 
