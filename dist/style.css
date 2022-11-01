@@ -1,0 +1,13 @@
+
+.employee-card {
+    background-color: rgb(28, 238, 112);
+    margin: 1rem;
+    box-shadow: 5px 5px 5px rgb(247, 0, 0);
+}
+
+.card-body {
+    background-color: rgb(199, 248, 4);
+    color: white;
+    width: 100%;
+
+}
