@@ -18,7 +18,7 @@ Run the index.html
 
 ## Usage:
 video walk through
-https://drive.google.com/file/d/1pzq0pr713sTX5St_h7Rnvj76qqhzrnfV/view?usp=sharing
+https://drive.google.com/file/d/1otMtyzTEQH-xF9tc5mPdSYzvyCffQqRJ/view?usp=sharing
 
 
 ## License:
